@@ -1,21 +1,20 @@
-== README
+== Listly
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This application is built using a rails backend and an Angular front end. The backend serves the front end using JSON.
 
-Things you may want to cover:
+Tech used:
 
-* Ruby version
+* Ruby 4
 
-* System dependencies
+* Gem: angular-rails-templates
 
-* Configuration
+* Gem: angular_rails_csrf
 
-* Database creation
+* Database: postgreSQL
 
-* Database initialization
+* Angular.js
 
-* How to run the test suite
+* Bootstrap
 
 * Services (job queues, cache servers, search engines, etc.)
 
